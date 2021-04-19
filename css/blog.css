@@ -1,0 +1,25 @@
+.h1 {
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    color: rgb(30, 30, 68);
+}
+.contacts {
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    color: rgb(69, 69, 151);
+    text-align: center;
+    list-style: none;
+    line-height: 1.8;
+}
+
+.list {
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    color: black;
+}
